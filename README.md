@@ -1,90 +1,63 @@
-## # 👨🏻‍💻 Marcos Gabriel
+# 👨🏻‍💻 Marcos Gabriel
 
-**`Desenvolvedor em formação`**
+**`Desenvolvedor Back-end em formação`**
 
-Me chamo Marcos Gabriel, tenho 19 anos e sou natural de Salvador, Bahia. Sou apaixonado por tecnologia e estou sempre buscando aprender coisas novas na área de programação e desenvolvimento de software. Atualmente, estou desenvolvendo minhas habilidades em programação e explorando diferentes tecnologias para construir projetos, aprimorar meus conhecimentos e evoluir como desenvolvedor.
+Me chamo Marcos Gabriel, tenho 19 anos e sou natural de Salvador, Bahia. Sou apaixonado por tecnologia e estou sempre buscando aprender coisas novas na área de desenvolvimento de software.
 
-<p align="left">
-    <a href="https://github.com/mhhBC">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/mhhBC?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/mhhBC?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/mhhBC?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-        />
-    </a>
-</p>
+Atualmente, estou focado em aprimorar meus conhecimentos em programação, com o objetivo de me tornar um desenvolvedor back-end. Tenho interesse em construir aplicações, trabalhar com bancos de dados e desenvolver soluções eficientes. Futuramente, também pretendo aprofundar meus conhecimentos em cibersegurança, explorando a área de segurança de sistemas e redes.
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="Python"
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" title="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="Java" title="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" alt="React" title="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" alt="MySQL" title="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Docker" title="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  <img align="center" alt="Git" title="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+</div>
 
-<br/>
-<br/>
+---
 
-### 📊 Estatísticas
+### 📊 Estatísticas do GitHub
 
 <p>
   <img 
     align="left" 
     alt="Estatísticas do GitHub" 
-    height="200" 
-    style="padding-right: 10px;" 
+    height="180" 
     src="https://github-readme-stats.vercel.app/api?username=mhhBC&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
   <img 
     align="left" 
     alt="Linguagens mais utilizadas" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhhBC&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhhBC&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 </p>
 
+<br clear="both">
+
+---
+
+### 🎯 Objetivos
+
+- Aprimorar meus conhecimentos em Python e Java.
+- Desenvolver aplicações back-end.
+- Aprender a trabalhar com bancos de dados utilizando MySQL.
+- Aprender a utilizar Docker para criar e executar aplicações em contêineres.
+- Construir projetos práticos e compartilhar minha evolução no GitHub.
+
+
+---
+
+### 📫 Contato
+
+- **GitHub:** [@mhhBC](https://github.com/mhhBC)
+
+---
+
+*Sempre buscando aprender, evoluir e transformar conhecimento em projetos.* 🚀
